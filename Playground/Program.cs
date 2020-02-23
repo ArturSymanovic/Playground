@@ -7,7 +7,7 @@ namespace Playground
     {
         static void Main(string[] args)
         {
-            FiveUniqueNumbers.Run();
+            ListExercise.Run();
         }
     }
 }
